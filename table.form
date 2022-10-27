@@ -6,7 +6,7 @@
   <body>
     <center><h1>Different type of coding languages</h1></center>
     <center><p>Let's learn about the different type of coding languages</p></center>
-    <center><table border="5" cellspacing="10" cellpadding="10">
+    <center><table border= colapse;collapse>
       <tr>
        <th colspan = "2">High level language</th>
         <th>low level language</th>
