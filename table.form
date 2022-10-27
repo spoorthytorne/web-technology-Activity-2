@@ -12,20 +12,20 @@
         <th>low level language</th>
       </tr>
       <tr>
-       <th>these are interpreted</th>
-       <th>Direct memory management</th>
+       <td>these are interpreted</td>
+       <td>Direct memory management</td>
        </tr>
        <tr>
-        <th>they have open classes and message-style methods which are known as dynamic constructs</th>
-        <th>Hardware has extremely little abstraction which is actually closr to having none</th>
+        <td>they have open classes and message-style methods which are known as dynamic constructs</td>
+        <td>Hardware has extremely little abstraction which is actually closr to having none</td>
         </tr>
         <tr>
-        <th>poor performance</th>
-        <th>much fast than high level</th>
+        <td>poor performance</td>
+        <td>much fast than high level</td>
         </tr>
         <tr>
-        <th>python</th>
-        <th>c++</th>
+        <td>python</td>
+        <td>c++</td>
         </tr>
         <th>Assemble language</th>
         <th>machine code</th>
