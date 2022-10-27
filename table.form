@@ -1,0 +1,33 @@
+<html>
+<body>
+<head>
+ <title>Different types of coding languages</title>
+  </head>
+  <body>
+    <center><h1>Different type of coding languages</h1></center>
+    <center><p>Let's learn about the different type of coding languages</p></center>
+    <center><table border="5" cellspacing="10" cellpadding="10">
+      <tr>
+       <th colspan = "2">High level language</th>
+        <th>low level language</th>
+      </tr>
+      <tr>
+       <th>these are interpreted</th>
+       <th>Direct memory management</th>
+       </tr>
+       <tr>
+        <th>they have open classes and message-style methods which are known as dynamic constructs</th>
+        <th>Hardware has extremely little abstraction which is actually closr to having none</th>
+        </tr>
+        <tr>
+        <th>poor performance</th>
+        <th>much fast than high level</th>
+        </tr>
+        <tr>
+        <th>python</th>
+        <th>c++</th>
+        </tr>
+        <th>Assemble language</th>
+        <th>machine code</th>
+        </tr>
+        
