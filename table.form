@@ -8,7 +8,7 @@
     <center><p>Let's learn about the different type of coding languages</p></center>
     <center><table border= colapse;collapse>
       <tr>
-       <th colspan = "2">High level language</th>
+       <th colspan = "1">High level language</th>
         <th>low level language</th>
       </tr>
       <tr>
@@ -24,10 +24,17 @@
         <td>much fast than high level</td>
         </tr>
         <tr>
-        <td>python</td>
-        <td>c++</td>
+        <td>Ex:python</td>
+        <td>Ex:Assemble language</td>
         </tr>
-        <th>Assemble language</th>
-        <th>machine code</th>
+        <td>Ex:c++</td>
+        <td>machine code</td>
         </tr>
+        </table></centre>
+        <centre>
+        <p>click the link given below</p>
+        <a href = "https://spoorthytorne.github.io/web-technology-Activity-2/form.html">learn coding.com</a>
+        </centre>
+     </body>
+     </html>
         
